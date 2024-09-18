@@ -43,28 +43,6 @@
       "projectRequestId": 2,
       "businessId": 1,
       "contractorId": 1
-    },
-    {
-      "id": 3,
-      "name": "Dormitorio elegante",
-      "description": "En el proyecto de renovación de dormitorio, creamos un espacio lujoso y funcional.",
-      "image": "https://img.freepik.com/foto-gratis/dormitorio-lampara-arana-cama-manta-encima_188544-33431.jpg?t=st=1714098131~exp=1714101731~hmac=2eeba4d7aa4cbcf03b2804c409281ee95b50392253bd3b9164c9bdf883dc5df0&w=1380",
-      "startDate": "2024-05-01T05:00:00.000Z",
-      "finishDate": "2024-06-01T05:00:00.000Z",
-      "projectRequestId": 3,
-      "businessId": 2,
-      "contractorId": 2
-    },
-    {
-      "id": 4,
-      "name": "Renovación de habitación infantil",
-      "description": "En el proyecto de renovación de la habitación infantil, creamos un espacio vibrante y divertido que estimula la imaginación y el juego. Utilizamos colores alegres y patrones lúdicos en la pintura de las paredes y los accesorios decorativos. Instalamos muebles funcionales y seguros, diseñados específicamente para niños, que ofrecen tanto espacio de almacenamiento como áreas de juego.",
-      "image": "https://img.freepik.com/foto-gratis/interior-decoracion-habitacion-ninos-juguetes_23-2149096020.jpg?t=st=1714091504~exp=1714095104~hmac=7382e4055471b5ed4867ce54e9a597e6afa96e869b73721fc6f3eaa79cc86713&w=1380",
-      "startDate": "2024-05-01T05:00:00.000Z",
-      "finishDate": "2024-06-01T05:00:00.000Z",
-      "projectRequestId": 4,
-      "businessId": 2,
-      "contractorId": 2
     }
   ]
 }
