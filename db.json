@@ -1,27 +1,11 @@
 {
-  "business": [
-    {
-      "id": 1,
-      "name": "RenovaPro",
-      "image": "https://img.freepik.com/foto-gratis/disenador-interiores-trabajando-pareja-joven_155003-27036.jpg?t=st=1714091383~exp=1714094983~hmac=2fdb20f7762dd31c5a2b4d1dbcb0a720ae612afadf9ffc14410d3f82c8b4a9f6&w=1380",
-      "expertise": "Hogar",
-      "address": "123 Calle Amarilla",
-      "city": "Lima",
-      "description": "Especialistas en renovaciones residenciales, ofreciendo soluciones innovadoras y de alta calidad. Con más de 10 años de experiencia. Ubicados en el distrito de San Miguel en Lima, Perú.",
-      "remodelerId": 1
-    }
-  ],
-  "project": [
-    {
-      "id": 1,
-      "name": "Renovación de habitación matrimonial",
-      "description": "En el proyecto de remodelación de la habitación matrimonial, renovamos por completo el espacio para crear un ambiente moderno y acogedor. Actualizamos la pintura de las paredes con tonos suaves y relajantes, instalamos nuevos muebles que maximizan el espacio y agregamos iluminación ambiental para crear una atmósfera cálida y romántica.",
-      "image": "https://img.freepik.com/foto-gratis/comodo-dormitorio-moderno-elegante-cabecero-madera-generado-ia_24640-87460.jpg?t=st=1714091277~exp=1714094877~hmac=ea13d6de1dfd502d8b2d44b7a0a0a00538c4b60e4980b1246e9f99691383c394&w=1380",
-      "startDate": "2024-05-01T05:00:00.000Z",
-      "finishDate": "2024-06-01T05:00:00.000Z",
-      "projectRequestId": 1,
-      "businessId": 1,
-      "contractorId": 1
-    }
-  ]
+  "Name": "Juan",
+  "Last Name": "Pérez Gómez",
+  "Email": "juan.perez@email.com",
+  "Telephone": "+34 912 345 678",
+  "Country": "España",
+  "Academic Degree": "Bachillerato",
+  "LinkedIn Profile": "https://www.linkedin.com/in/juanperez",
+  "Genre": "Masculino"
 }
+
